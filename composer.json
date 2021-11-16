@@ -1,0 +1,18 @@
+{
+  "name": "app/mvcframework",
+  "authors": [
+    {
+      "name": "Azad421",
+      "email": "app92558@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.4",
+    "azadkh/mvcframework": "^1.0"
+  }
+}
